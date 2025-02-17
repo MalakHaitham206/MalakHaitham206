@@ -17,13 +17,23 @@
 ✅ Gamification to boost engagement  
 ✅ Secure authentication with Firebase  
 
+### 🎓 Skillbridge – E-Learning Platform
+📌 **Tech Stack:** React.js, Firebase, Redux, Material-UI
+📌 **Description:** A fully functional e-learning platform developed as the final project for the React.js course at ITI. Built in collaboration with Yousef Khalaf(username: yousefkhalaf0).
+📌 **Features:** 
+✅ User Authentication – Firebase Auth integration
+✅ Course Management – Admins can add, update, and delete courses
+✅ Search & Filter – Users can search for courses by difficulty level
+✅ Watch Later List – Save courses for future reference
+✅ Dark/Light Mode – Theme customization
+✅ Localization – Supports both English & Arabic
 ---
 
-### 📝 **Tech Skills**  
-✅ **Languages:** Dart, JavaScript (ES6+), Python, Java  
-✅ **Frameworks:** Flutter, React Native, Firebase Functions, Node.js  
-✅ **State Management:** Provider, Riverpod, Bloc, Redux  
-✅ **Tools:** Git, CI/CD, Agile, Firebase  
+### 📝 **Tech Skills**    
+✅ **Languages:** Dart, JavaScript (ES6+), Python, Java
+✅ **Frameworks:** Flutter, React.js, Redux, Firebase Functions, Node.js
+✅ **State Management:** Provider, Riverpod, Bloc, Redux
+✅ **Tools:** Git, CI/CD, Agile, Firebase, Material UI, Figma
 
 ---
 
