@@ -11,7 +11,7 @@
 
 ### 🐶 [Yuna Pet Application](https://github.com/MalakHaitham206/YunaPetApp)  
 📌 **Tech Stack:** Flutter, Firebase, Provider  
-📌 **Description:** A pet care app with real-time tracking & reminders.  
+📌 **Description:** A pet care application features machine learning classification, real-time tracking, and reminders.  
 📌 **Features:**  
 - ✅ Real-time pet tracking  
 - ✅ Gamification to boost engagement  
