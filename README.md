@@ -19,13 +19,13 @@
 ---
 
 ##  Professional Experience
-** Dart & Flutter Instructor (Part-Time)** | ITI - Egypt | May 2025 - Present  
+**Dart & Flutter Instructor (Part-Time)** | ITI - Egypt | May 2025 - Present  
 - Leading intensive Flutter training for junior developers
 - Teaching OOP principles, Dart syntax, widgets, layouts, and clean architecture
 - Mentoring students in state management (Bloc, Riverpod) and project structure
 - Guiding real-world cross-platform mobile app development
 
-** ITI Intensive Code Camp Trainee** | Nov 2024 - April 2025  
+**ITI Intensive Code Camp Trainee** | Nov 2024 - April 2025  
 - Completed specialized training in Front-End and Cross-Platform Mobile Development
 
 ---
