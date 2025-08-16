@@ -8,7 +8,7 @@
 ---
 
 ##  Education & Certifications
-** Bachelor of Computer Science & IT** - The Egyptian E-Learning University (2020-2024)  
+**Bachelor of Computer Science & IT** - The Egyptian E-Learning University (2020-2024)  
 **GPA:** 3.39/4.00 (Very Good with Honors)  
 
 ** Certifications:**  
