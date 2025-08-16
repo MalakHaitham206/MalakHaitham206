@@ -11,7 +11,7 @@
 **Bachelor of Computer Science & IT** - The Egyptian E-Learning University (2020-2024)  
 **GPA:** 3.39/4.00 (Very Good with Honors)  
 
-** Certifications:**  
+**Certifications:**  
 - ITI Intensive Code Camp - Front-End & Cross-Platform Mobile Development
 - ECPC Certification - Competitive Programming
 - Mentoring Certification - Student Coaching & Algorithms
