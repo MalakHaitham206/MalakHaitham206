@@ -71,26 +71,26 @@
 
 ##  Technical Skills  
 
-**  Programming Languages:**  
+**Programming Languages:**  
 - **Dart** (Advanced) - Primary expertise
 - **JavaScript** (Intermediate) - React.js, ES6+
 - **C++, Java, Python** (Intermediate)
 
-**  Mobile Development:**  
+**Mobile Development:**  
 - **Flutter** (Advanced) - Cross-platform development
 - **Firebase** - Authentication, Firestore, Cloud Functions
 - **State Management** - Bloc, Riverpod, Cubit, Provider
 
-**  Web Technologies:**  
+**Web Technologies:**  
 - **React.js** - Component-based development
 - **HTML5, CSS3** - Modern web standards
 - **RESTful APIs** - Integration and consumption
 
-**  UI/UX & Design:**  
+**UI/UX & Design:**  
 - **Figma, Adobe XD** - Prototyping and design
 - **Adobe Illustrator** - Vector graphics
 
-** Development Tools:**  
+**Development Tools:**  
 - **Git & GitHub** - Version control and collaboration
 - **Trello** - Project management
 - **Clean Architecture** - Code organization principles
